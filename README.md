@@ -82,6 +82,6 @@ Vývojové prostredie: **STM32CubeIDE** (HAL + LL), jazyk C.
 | Sven Schmitz | Algoritmus odhadu smeru 
 | Tomáš Slavkov | Displej a vyhodnocovací softvér 
 
-
+https://trello.com/b/QT1B5NMn/vrs-timovy-projekt-lokaliz%C3%A1cia-zvuku
 
 
