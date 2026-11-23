@@ -97,10 +97,8 @@ Vývojové prostredie: **STM32CubeIDE** (HAL + LL), jazyk C.
 
 | Člen | Zodpovednosť | Konkrétne úlohy |
 |---|---|---|
-| **Timotej Maďar** | Hardvér a snímanie signálu | stavba mikrofónovej zostavy, zapojenie mikrofónov a filtrov, nastavenie zosilnenia, konfigurácia časovača, ADC a DMA |
-| **Sven Schmitz** | Algoritmus odhadu smeru | spracovanie signálu, korelácia, výpočet a vyhladenie uhla, overenie algoritmu v simulácii |
-| **Tomáš Slavkov** | Displej a vyhodnotenie | ovládač displeja a grafika, posielanie dát do PC, skript na vyhodnotenie meraní a grafy |
-
-Spoločne: integrácia firmvéru, meranie presnosti, dokumentácia a prezentácia.
+| **Timotej Maďar** | Hardvér a snímanie signálu | stavba mikrofónovej zostavy, zapojenie mikrofónov a filtrov, nastavenie zosilnenia, konfigurácia časovača, ADC a DMA | integrácia firmvéru |
+| **Sven Schmitz** | Algoritmus odhadu smeru | spracovanie signálu, korelácia, výpočet a vyhladenie uhla, overenie algoritmu v simulácii | meranie presnosti |
+| **Tomáš Slavkov** | Displej a vyhodnotenie | ovládač displeja a grafika, posielanie dát do PC, skript na vyhodnotenie meraní a grafy | dokumentácia a prezentácia |
 
 Trello: https://trello.com/b/QT1B5NMn/vrs-timovy-projekt-lokaliz%C3%A1cia-zvuku
